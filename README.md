@@ -1,1 +1,1 @@
-# Cochlear-Implant-Simulation-to-Analyse-the-PAM-Response-in-an-Endogenous-Experiment
+# Investigating Vestigial Ear Muscle Activity in Simulated Cochlear Implant Listening.(Endogeneous Listening)
